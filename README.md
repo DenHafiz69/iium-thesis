@@ -29,7 +29,7 @@ If you encounter any issues, have suggestions for improvements, or would like to
 
 ## License
 
-This LaTeX template is distributed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the template for both personal and commercial purposes. However, attribution to the original source is appreciated.
+This LaTeX template is distributed under the [GPL v3 License](LICENSE), which means you are free to use, modify, and distribute the template for both personal and commercial purposes. However, attribution to the original source is appreciated.
 
 ## Acknowledgments
 

@@ -37,5 +37,5 @@ Special thanks to the contributors and developers of the LaTeX packages and reso
 
 ## Contact
 
-For questions, support, or inquiries about this LaTeX template, please contact [Your Name](mailto:your.email@example.com).
+For questions, support, or inquiries about this LaTeX template, please contact [Your Name](mailto:den.m.hafiz@gmail.com).
 

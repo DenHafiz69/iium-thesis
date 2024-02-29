@@ -29,7 +29,11 @@ If you encounter any issues, have suggestions for improvements, or would like to
 
 ## License
 
-This LaTeX template is distributed under the [GPL v3 License](LICENSE), which means you are free to use, modify, and distribute the template for both personal and commercial purposes. However, attribution to the original source is appreciated.
+This LaTeX template is distributed under the terms of the [GNU General Public License (GPL) version 3](LICENSE), or any later version, as published by the Free Software Foundation.
+
+You are free to use, modify, and distribute this template, as long as any derivative works you create are also licensed under the GPL. If you distribute modified versions of the template, you must make the source code available under the same terms as the original template.
+
+The template is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the template or the use or other dealings in the template.
 
 ## Acknowledgments
 

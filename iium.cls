@@ -18,5 +18,5 @@
 \setlength\parindent{0.5in}
 
 \RequirePackage{titlesec}
-\titleformat{\section}[block]{\centering\bfseries}{CHAPTER\\}{1em}{\MakeUppercase}
+\titleformat{\section}[block]{\fontsize{14}{16}\selectfont\centering\bfseries}{CHAPTER\\ \vspace{2em}}{1em}{\MakeUppercase}
 \titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}

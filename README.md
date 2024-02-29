@@ -1,5 +1,7 @@
 # IIUM Thesis LaTeX Template
 
+!! THIS TEMPLATE IS IN PROGRESS !!
+
 This repository contains a LaTeX template for writing thesis according to the guidelines of the International Islamic University Malaysia (IIUM).
 
 ## Overview

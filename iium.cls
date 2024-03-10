@@ -17,8 +17,10 @@
 \onehalfspacing
 \setlength\parindent{0.5in}
 
+\RequirePackage{fmtcount}
+
 \RequirePackage{titlesec}
-\titleformat{\section}[block]{\fontsize{14}{16}\selectfont\centering\bfseries}{CHAPTER\\[2em]}{0em}{\MakeUppercase}
+\titleformat{\section}[block]{\fontsize{14}{16}\selectfont\centering\bfseries}{CHAPTER \NUMBERstring{section}\\[2em]}{0em}{\MakeUppercase}
 \titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2em}
 
 % Format for starred sections

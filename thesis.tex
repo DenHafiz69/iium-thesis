@@ -14,10 +14,14 @@
     \maketitle
 
     \newpage
+    % Start the page using roman numeral (i, ii, iii, ...)
+    \pagenumbering{roman}
     \tableofcontents
-
     \include{approval}
     \include{abstract}
+
+    % Restart the numbering using arabic numeral (1, 2, 3, ...)
+    \pagenumbering{arabic}
     \include{chapter1} % Introduction
     \include{chapter2} % Literature Review
     \include{chapter3} % Methodology

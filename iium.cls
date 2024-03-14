@@ -26,3 +26,5 @@
 % Format for starred sections
 \titleformat{name=\section,numberless}[block]{\fontsize{14}{16}\selectfont\centering\bfseries}{}{0em}{\MakeUppercase}
 \titlespacing*{name=\section,numberless}{0pt}{3.5ex plus 1ex minus .2ex}{2em}
+
+\renewcommand*\contentsname{Table of Contents}

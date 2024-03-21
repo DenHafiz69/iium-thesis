@@ -33,5 +33,8 @@
 % Format for subsection (1.1, 1.2, ...)
 \titleformat{\subsection}{\normalfont\bfseries}{\thesubsection}{1em}{\MakeUppercase}
 
-% Rename Table of Contents
+% Rename Table of Contents (TOC)
 \renewcommand*\contentsname{Table of Contents}
+
+% Customize TOC
+\RequirePackage{tocloft}

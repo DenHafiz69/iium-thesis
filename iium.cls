@@ -19,14 +19,14 @@
 \onehalfspacing
 \setlength\parindent{0.5in}
 
-% Change the section header
+% Change the section header (CHAPTER ONE, CHAPTER TWO, ...)
 \RequirePackage{fmtcount}
 
 \RequirePackage{titlesec}
 \titleformat{\section}[block]{\fontsize{14}{16}\selectfont\centering\bfseries}{CHAPTER \NUMBERstring{section}\\[2em]}{0em}{\MakeUppercase}
 \titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2em}
 
-% Format for starred sections
+% Format for starred sections (ABSTRACT, APPROVAL PAGE, ...)
 \titleformat{name=\section,numberless}[block]{\fontsize{14}{16}\selectfont\centering\bfseries}{}{0em}{\MakeUppercase}
 \titlespacing*{name=\section,numberless}{0pt}{3.5ex plus 1ex minus .2ex}{2em}
 

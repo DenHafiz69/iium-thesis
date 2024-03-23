@@ -38,3 +38,14 @@
 
 % Customize TOC
 \RequirePackage{tocloft}
+
+% Define a new command for the table structure
+\RequirePackage{tabularx}
+\newcommand{\personinfo}[2]{%
+    \vspace{1.2cm}
+    \begin{tabularx}{\linewidth}{@{}p{0.55\linewidth}@{}X@{}}
+        & ........................................................ \\
+        & #1 \\ % Name
+        & #2 % Role; examiner, supervisor, etc
+    \end{tabularx}%
+}
